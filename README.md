@@ -26,7 +26,8 @@ This screenshot displays the list of users currently logged into the system, as 
  RAM Usage Report: 
 This screenshot presents the current memory usage statistics, including used and available RAM.
  Disk Usage Report: 
-This screenshot shows the disk space usage of the system's mounted partitions. 
+This screenshot shows the disk space usage of the system's mounted partitions.        
+
  https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Running%20the%20Script.png?raw=true
 
 #
