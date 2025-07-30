@@ -32,4 +32,4 @@ This screenshot shows the disk space usage of the system's mounted partitions.
 
 # The screenshot Shows the top memory-consuming processes. Unsurprisingly, Chrome made the list during testing.
 https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Top%205%20Memory-Using%20Processes(1).png?raw=true
-
+https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Top%205%20Memory-Using%20Processes(2).png?raw=true
