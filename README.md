@@ -19,19 +19,12 @@ Features that I've put in
 
 4/ [This screenshot shows the execution of the system health monitoring script in the terminal.](screenshots/Running_the_Script.png)
 
-Logged-in Users Report: 
+This screenshot shows : 
 
-This screenshot displays the list of users currently logged into the system, as reported by the script.
-RAM Usage Report: 
+Logged-in Users Report: displays the list of users currently logged into the system, as reported by the script. 
 
-This screenshot presents the current memory usage statistics, including used and available RAM.
-Disk Usage Report: 
+RAM Usage Report: presents the current memory usage statistics, including used and available RAM.
 
-This screenshot shows the disk space usage of the system's mounted partitions.        
+Disk Usage Report: shows the disk space usage of the system's mounted partitions.        
 
- https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Running%20the%20Script.png?raw=true
-
-# The screenshot Shows the top memory-consuming processes. Unsurprisingly, Chrome made the list during testing.
-https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Top%205%20Memory-Using%20Processes(1).png?raw=true
-
-https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Top%205%20Memory-Using%20Processes(2).png?raw=true
+5/ [The screenshot Shows the top memory-consuming processes. Unsurprisingly, Chrome made the list during testing.]()
