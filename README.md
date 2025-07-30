@@ -13,7 +13,7 @@ Features that I've put in
 # The screenshot showing creation of the dedicated directory for writing the script 
 https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Creating%20Directories.png?raw=true
 
-# Creating the script file and setting executable permission
+# This screenshot demonstrates creating the script file and using the chmod +x command to make it executable.
 https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/3.png?raw=true
 
 # The screenshot showing code editor with system health monitor script
