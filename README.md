@@ -27,4 +27,6 @@ RAM Usage Report: presents the current memory usage statistics, including used a
 
 Disk Usage Report: shows the disk space usage of the system's mounted partitions.        
 
-5/ [The screenshot Shows the top memory-consuming processes. Unsurprisingly, Chrome made the list during testing.](screenshots/Top_5_Memory_Using_Processes(1).png)()
+5/ [The screenshot Shows the top memory-consuming processes.](screenshots/Top_5_Memory_Using_Processes(1).png)
+
+6/ [Unsurprisingly, Chrome made the list during testing.](screenshots/Top_5_Memory_Using_Processes(2).png)
