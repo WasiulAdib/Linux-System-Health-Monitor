@@ -12,8 +12,7 @@ Features that I've put in
 -  Top memory-hogging processes
   
 1/ [The screenshot showing creation of the dedicated directory for writing the script](screenshots/Creating_Directories.png)
-# This screenshot demonstrates creating the script file and using the chmod +x command to make it executable.
-https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/3.png?raw=true
+2/ [This screenshot demonstrates creating the script file and using the chmod +x command to make it executable.](screenshots/screenshots/Creating_the_Script_File_and_Setting_Executable_Permission.png)
 
 2/ [The screenshot showing code editor with system health monitor script](screenshots/screenshots/Creating the Script File and Setting Executable Permission.png)
 
