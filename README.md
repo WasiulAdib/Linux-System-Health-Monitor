@@ -17,13 +17,16 @@ Features that I've put in
 
 3/ [The screenshot showing code editor with system health monitor script](screenshots/Writing_of_the_script.png)
 
-4/ This screenshot shows the execution of the system health monitoring script in the terminal.
+4/ [This screenshot shows the execution of the system health monitoring script in the terminal.](screenshots/Running_the_Script.png)
 
- /Logged-in Users Report: 
+Logged-in Users Report: 
+
 This screenshot displays the list of users currently logged into the system, as reported by the script.
- /RAM Usage Report: 
+RAM Usage Report: 
+
 This screenshot presents the current memory usage statistics, including used and available RAM.
- /Disk Usage Report: 
+Disk Usage Report: 
+
 This screenshot shows the disk space usage of the system's mounted partitions.        
 
  https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Running%20the%20Script.png?raw=true
