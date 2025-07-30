@@ -13,7 +13,8 @@ Features that I've put in
 # The screenshot showing creation of the dedicated directory for writing the script 
 https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Creating%20Directories.png?raw=true
 
-#
+# The screenshot showing code editor with system health monitor script
+https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Writing%20of%20the%20script.png?raw=true
 
 #
 
