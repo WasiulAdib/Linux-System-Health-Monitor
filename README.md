@@ -11,7 +11,8 @@ Features that I've put in
 -  System uptime
 -  Top memory-hogging processes 
 # The screenshot showing creation of the dedicated directory for writing the script 
-https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Creating%20Directories.png?raw=true
+[https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Creating%20Directories.png?raw=true
+](https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/screenshots/Creating%20Directories.png?raw=true)
 
 # This screenshot demonstrates creating the script file and using the chmod +x command to make it executable.
 https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/3.png?raw=true
