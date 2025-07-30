@@ -19,13 +19,14 @@ https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/3.png?raw=tr
 # The screenshot showing code editor with system health monitor script
 https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Writing%20of%20the%20script.png?raw=true
 
-#This screenshot shows the execution of the system health monitoring script in the terminal.
-Logged-in Users Report:
+# This screenshot shows the execution of the system health monitoring script in the terminal.
+
+Logged-in Users Report: 
 This screenshot displays the list of users currently logged into the system, as reported by the script.
-RAM Usage Report:
+RAM Usage Report: 
 This screenshot presents the current memory usage statistics, including used and available RAM.
-Disk Usage Report:
-This screenshot shows the disk space usage of the system's mounted partitions.
+Disk Usage Report: 
+This screenshot shows the disk space usage of the system's mounted partitions. 
 https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Running%20the%20Script.png?raw=true
 
 #
