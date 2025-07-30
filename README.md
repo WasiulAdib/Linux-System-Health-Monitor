@@ -10,3 +10,13 @@ Features that I've put in
 -  Logged-in users
 -  System uptime
 -  Top memory-hogging processes 
+# The screenshot showing creation of the dedicated directory for writing the script 
+https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Creating%20Directories.png?raw=true
+
+#
+
+#
+
+#
+
+#
