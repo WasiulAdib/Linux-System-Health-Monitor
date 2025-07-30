@@ -15,9 +15,9 @@ Features that I've put in
 
 2/ [This screenshot demonstrates creating the script file and using the chmod +x command to make it executable.](screenshots/Creating_the_Script_File_and_Setting_Executable_Permission.png)
 
-3/ [The screenshot showing code editor with system health monitor script](screenshots/screenshots/Creating the Script File and Setting Executable Permission.png)
+3/ [The screenshot showing code editor with system health monitor script](screenshots/Writing_of_the_script.png)
 
-# This screenshot shows the execution of the system health monitoring script in the terminal.
+4/ This screenshot shows the execution of the system health monitoring script in the terminal.
 
  /Logged-in Users Report: 
 This screenshot displays the list of users currently logged into the system, as reported by the script.
