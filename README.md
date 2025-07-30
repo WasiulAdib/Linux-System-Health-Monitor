@@ -15,8 +15,7 @@ Features that I've put in
 # This screenshot demonstrates creating the script file and using the chmod +x command to make it executable.
 https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/3.png?raw=true
 
-# The screenshot showing code editor with system health monitor script
-https://github.com/WasiulAdib/Linux-System-Health-Monitor/blob/main/Writing%20of%20the%20script.png?raw=true
+2/ [The screenshot showing code editor with system health monitor script](screenshots/screenshots/Creating the Script File and Setting Executable Permission.png)
 
 # This screenshot shows the execution of the system health monitoring script in the terminal.
 
